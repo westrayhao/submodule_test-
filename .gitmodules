@@ -1,0 +1,3 @@
+[submodule "galene-vision-pipeline"]
+	path = galene-vision-pipeline
+	url = https://github.com/Westray-AI/galene-vision-pipeline.git
